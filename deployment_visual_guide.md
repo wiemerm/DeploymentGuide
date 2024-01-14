@@ -38,23 +38,27 @@ Moreover, if the only visual depiction of a costume does not contain a full 360 
 
 The Following is an example of Concept art by 343 Artist Kory Hubbell that would not be eligible for Tier 3 because we do not have a full view of the Character: 
 
-{ Insert Image }
+![Concept Art by Kory Hubbell of one angle of Spartan](./Photos/kory_hubbell.png)
 
 The Following is an example of Concept art by 343 Artist Kory Hubbell that would be eligible for Tier 3 because we do have a full view of the Character:
  
- { Insert Image }
+![Front and back concept art of security armor](./Photos/security_armor.png)
 
 
 No original, fan designed Armor Sets, permutations, or armor components and accessories are applicable for Deployment.  These are things like custom Shoulders or Helmets that are not seen in any game, but were designed as an original, custom armor component by the builder or non Bungie or 343 Artist.
 
-{ Want to include art of a custom Helmet and Chest Piece Here. E.g. Galactic Armory Mash Up renders, but not sure about just slapping a GA watermarked image here.  Maybe someone can render us one?. }
+``` 
+* Want to include art of a custom Helmet and Chest Piece Here. E.g. Galactic Armory Mash Up renders, but not sure about just slapping a GA watermarked image here.  Maybe someone can render us one?.
+```
 
 # General Guidelines
 
 The Following are general guidelines, each costume will have specific requirements and items that are looked at and evaluated.
 
 ## Tier 1:
-{ Fallen Note: Some of these get very specific for a "general guidelines" section. We should make a separate section for specifics. While, given the large number of potential costumes available, we can't expect to cover every permutation, we could create a section for each major type such as SPARTAN, ODST, Marine, etc. A first iteration could cover non-game specifics for each type and we could continue to expand on specific variants (e.g. Reach SPARTAN, H3 Marine, Mk VII, etc.) over time treating this as a living compendium. }
+```
+Fallen Note: Some of these get very specific for a "general guidelines" section. We should make a separate section for specifics. While, given the large number of potential costumes available, we can't expect to cover every permutation, we could create a section for each major type such as SPARTAN, ODST, Marine, etc. A first iteration could cover non-game specifics for each type and we could continue to expand on specific variants (e.g. Reach SPARTAN, H3 Marine, Mk VII, etc.) over time treating this as a living compendium.
+```
 
 - Costume must be complete with all primary components present. Any missing primary components will make a costume ineligible for Deployment.
     - Primary components will be determined on a costume by costume basis 
@@ -85,8 +89,15 @@ The Following are general guidelines, each costume will have specific requiremen
 - Armor personalization marks or Graffiti may include non-canon references or images, such as references or symbology from other Fictional Universes, e.g. The Overwatch logo or Fallout's Brotherhood of Steel.
 
 ### Tier 1 Suits Examples:
-    { Insert Images }   
 
+![Example of a Tier 1 Spartan Armor](./Photos/tier1_example1.png)
+```
+Would be helpful to point out some items as to why it's a T1
+```
+![Exmaple of a Tier 1 Spartan Armor](./Photos/tier1_example2.png)
+```
+Would be helpful to point out some items as to why it's a T1
+```
 
 ## Tier 2:
 
@@ -111,7 +122,11 @@ The Following are general guidelines, each costume will have specific requiremen
 - Armor sets having Handplates will have physical handplates in the correct shape and style. For Tier 2 repainted "Paintball" padded gloves are not acceptable in place of hand armor.
 
 ### Tier 2 Suit Examples:
-{ Insert Images }  
+![Alt text](./Photos/tier2_heath.png) 
+Would be helpful to point out some items as to why it's a T2
+
+![Alt text](./Photos/tier2_cadet.png)
+Would be helpful to point out some items as to why it's a T2
 
 
 
@@ -144,7 +159,8 @@ The Following are general guidelines, each costume will have specific requiremen
 - Costume must have a full 360 degree visual reference to compare the submitted member costume too.
 
 ### Tier 3 Suit Examples:
-   { Insert Images }   
+![Alt text](./Photos/tier3_example1.png)
+![Alt text](./Photos/tier3_example2.png)  
 
 
 ## Special Categories:
@@ -162,12 +178,12 @@ The Following are general guidelines, each costume will have specific requiremen
 
 This Mash Up Costume does not feature a complete Halo Universe costume at its base, and as such would not be Deployable:
 
-{ Insert Image }
+![Alt text](./Photos/ghostbuster_crossover.png)
  
 
 This costume features a complete Halo Universe costumes as its base, and as such would qualify for Deployment as a Mash Up costume:
 
-   { Insert Image}
+![Alt text](./Photos/venom_crossover.png)
 
 
 ### Mix and Match Armor
@@ -187,60 +203,64 @@ This costume features a complete Halo Universe costumes as its base, and as such
 Personalization Examples:
 The Following would be limited to Tier 1 for Personalization for an ODST due to the use of recognizable imagery from another Franchise.
  
+ ![Alt text](./Photos/Personalization/tier1_personalization.png)
 
 The following is an example of Tier 2 Personalization for an ODST due to the use of a logo not found in Halo's Multiplayer customization options or seen in any official Halo Media, but does not reference any other franchise or fictional universe:
+
+![Alt text](./Photos/Personalization/tier2_personalization.png)
  
 The following is an example of Tier 3 Personalization for an ODST due to only containing logos and details found In Game.  This does include the use of the user's last name or Callsign or Nickname in the top position matching the placement on the armor worn by the members of Kilo-Five in Halo 3: ODST, but omitted for privacy in this example:
+
+![Alt text](./Photos/Personalization/tier3_personalization.png)
  
 
 The following are further examples of Tier 1 Personalization marks:
-                   
-{ Insert Image}
+```Need to bring over images```
 
 The following are further examples of Tier 2 Personalization marks:
+```Need to bring over images```
 
-{ Insert Image }
 
 The following are further examples of Tier 3 Personalization marks:
-                          
-{ Insert Image }
+```Need to bring over images```                        
 
-Tier Specific Finishing Examples:
+
+## Tier Specific Finishing Examples:
 Pepakura Finishing Reference:
 Tier 1, Polygonal appear indicative of Pepakura is still present due to little or no smoothing techniques applied to the piece:
    
-{ Insert Image }
+```{ Insert Image }```
 
 Tier 2, while smoothed, there are still rough patches indicating the base method and materials used:
   
-{ Insert Image }
+```{ Insert Image }```
 
 Tier 3, the piece has been smoothed and detailed to the point that the base material or method is no longer obvious: 
 
-{ Insert Image }
+```{ Insert Image }```
 
 Foam Build Reference
 Tier 1, there are large gaps and unfilled seams that make the base constrcution method of Foam visible:
 
-{ Insert Image }
+```{ Insert Image }```
 
 Tier 2, the construction of the piece is such that seams are minimized and filled, but some cuts are not as smooth or symmetrical and seams, while filled, are still able to be identified:
  
-{ Insert Image }
+```{ Insert Image }```
 
 Tier 3, the construction of the piece is such that seams are minimized or filed and smoothed to the point that the base material or method is no longer obvious:
 
-{ Insert Image } 
+```{ Insert Image }```
 
 3D Print Build Reference
 Tier 1, little to no smoothing or filling of print lines has been completed:
 
-{ Insert Image }
+```{ Insert Image }```
  
 Tier 2, print lines have had post processing and filling, but are still visible in small places such as corners or recessed areas: 
 
-{ Insert Image }
+```{ Insert Image }```
 
 Tier 3, the piece has been smoothed and detailed to the point that the base material or method is no longer obvious:
 
-{ Insert Image }
+```{ Insert Image }```
