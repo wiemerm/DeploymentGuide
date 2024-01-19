@@ -122,11 +122,13 @@ Would be helpful to point out some items as to why it's a T1
 - Armor sets having Handplates will have physical handplates in the correct shape and style. For Tier 2 repainted "Paintball" padded gloves are not acceptable in place of hand armor.
 
 ### Tier 2 Suit Examples:
-![Alt text](./Photos/tier2_heath.png) 
-Would be helpful to point out some items as to why it's a T2
+![Alt text](./Photos/tier2_example2.png) 
 
-![Alt text](./Photos/tier2_cadet.png)
-Would be helpful to point out some items as to why it's a T2
+```Would be helpful to point out some items as to why it's a T2```
+
+![Alt text](./Photos/tier2_example1.png)
+
+```Would be helpful to point out some items as to why it's a T2```
 
 
 
