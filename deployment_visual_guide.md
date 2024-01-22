@@ -38,11 +38,11 @@ Moreover, if the only visual depiction of a costume does not contain a full 360 
 
 The Following is an example of Concept art by 343 Artist Kory Hubbell that would not be eligible for Tier 3 because we do not have a full view of the Character: 
 
-![Concept Art by Kory Hubbell of one angle of Spartan](./Photos/kory_hubbell.png)
+![Concept Art by Kory Hubbell of one angle of Spartan](./Photos/Concept%20Art/kory_hubbell.png)
 
 The Following is an example of Concept art by 343 Artist Kory Hubbell that would be eligible for Tier 3 because we do have a full view of the Character:
  
-![Front and back concept art of security armor](./Photos/security_armor.png)
+![Front and back concept art of security armor](./Photos/Concept%20Art/security_armor.png)
 
 
 No original, fan designed Armor Sets, permutations, or armor components and accessories are applicable for Deployment.  These are things like custom Shoulders or Helmets that are not seen in any game, but were designed as an original, custom armor component by the builder or non Bungie or 343 Artist.
@@ -90,11 +90,11 @@ Fallen Note: Some of these get very specific for a "general guidelines" section.
 
 ### Tier 1 Suits Examples:
 
-![Example of a Tier 1 Spartan Armor](./Photos/tier1_example1.png)
+![Example of a Tier 1 Spartan Armor](./Photos/General/tier1_example1.png)
 ```
 Would be helpful to point out some items as to why it's a T1
 ```
-![Exmaple of a Tier 1 Spartan Armor](./Photos/tier1_example2.png)
+![Exmaple of a Tier 1 Spartan Armor](./Photos/General/tier1_example2.png)
 ```
 Would be helpful to point out some items as to why it's a T1
 ```
@@ -122,13 +122,8 @@ Would be helpful to point out some items as to why it's a T1
 - Armor sets having Handplates will have physical handplates in the correct shape and style. For Tier 2 repainted "Paintball" padded gloves are not acceptable in place of hand armor.
 
 ### Tier 2 Suit Examples:
-![Alt text](./Photos/tier2_example2.png) 
-
-```Would be helpful to point out some items as to why it's a T2```
-
-![Alt text](./Photos/tier2_example1.png)
-
-```Would be helpful to point out some items as to why it's a T2```
+![Tier 2 example ODST](./Photos/General/tier2_heath.png)  ![Tier 2 example Caboose](./Photos/General/tier2_cadet.png)
+Would be helpful to point out some items as to why it's a T2
 
 
 
@@ -161,8 +156,8 @@ Would be helpful to point out some items as to why it's a T1
 - Costume must have a full 360 degree visual reference to compare the submitted member costume too.
 
 ### Tier 3 Suit Examples:
-![Alt text](./Photos/tier3_example1.png)
-![Alt text](./Photos/tier3_example2.png)  
+![Tier 3 example Chief](./Photos/General/tier3_example1.png) 
+![Tier 3 example Chief](./Photos/General/tier3_example2.png)  
 
 
 ## Special Categories:
@@ -180,12 +175,12 @@ Would be helpful to point out some items as to why it's a T1
 
 This Mash Up Costume does not feature a complete Halo Universe costume at its base, and as such would not be Deployable:
 
-![Alt text](./Photos/ghostbuster_crossover.png)
+![Ghostbusters Spartan](./Photos/General/ghostbuster_crossover.png)
  
 
 This costume features a complete Halo Universe costumes as its base, and as such would qualify for Deployment as a Mash Up costume:
 
-![Alt text](./Photos/venom_crossover.png)
+![Venom ODST](./Photos/General/venom_crossover.png)
 
 
 ### Mix and Match Armor
@@ -229,43 +224,49 @@ The following are further examples of Tier 3 Personalization marks:
 
 ![Ninja](./Photos/Personalization/ninja.png) ![Yeti](./Photos/Personalization/yeti.png) ![Noble Team](./Photos/Personalization/noble_team.png)                       
 
-
 ## Tier Specific Finishing Examples:
-Pepakura Finishing Reference:
+### Pepakura Finishing Reference:
 Tier 1, Polygonal appear indicative of Pepakura is still present due to little or no smoothing techniques applied to the piece:
    
-```{ Insert Image }```
+![Pepakura Tier 1 example](./Photos/Pepakura/tier1_pep.png)
 
 Tier 2, while smoothed, there are still rough patches indicating the base method and materials used:
   
-```{ Insert Image }```
+![Pepakura Tier 2 example](./Photos/Pepakura/tier2_pep.png)
 
 Tier 3, the piece has been smoothed and detailed to the point that the base material or method is no longer obvious: 
 
-```{ Insert Image }```
+![Pepakura Tier 3 example](./Photos/Pepakura/tier3_pep.png)
 
-Foam Build Reference
+
+### Foam Build Reference
+
 Tier 1, there are large gaps and unfilled seams that make the base constrcution method of Foam visible:
 
-```{ Insert Image }```
+![Foam Tier 1 Example](./Photos/Foam/tier1_foam.png)
 
 Tier 2, the construction of the piece is such that seams are minimized and filled, but some cuts are not as smooth or symmetrical and seams, while filled, are still able to be identified:
  
-```{ Insert Image }```
+![Foam Tier 2 Example](./Photos/Foam/tier2_foam.png)
+
 
 Tier 3, the construction of the piece is such that seams are minimized or filed and smoothed to the point that the base material or method is no longer obvious:
 
-```{ Insert Image }```
+![Foam Tier 3 Example](./Photos/Foam/tier3_foam.png)
 
-3D Print Build Reference
+### 3D Print Build Reference
+
 Tier 1, little to no smoothing or filling of print lines has been completed:
 
-```{ Insert Image }```
+![3D Print Tier 1 Example](./Photos/3d%20Print/tier1_3d_print.png)
+
  
 Tier 2, print lines have had post processing and filling, but are still visible in small places such as corners or recessed areas: 
 
-```{ Insert Image }```
+![3D Print Tier 2 Example](./Photos/3d%20Print/tier2_3d_print.png)
+
 
 Tier 3, the piece has been smoothed and detailed to the point that the base material or method is no longer obvious:
 
-```{ Insert Image }```
+![3D Print Tier 3 Example](./Photos/3d%20Print/tier3_3d_print.png)
+
