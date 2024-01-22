@@ -28,7 +28,7 @@ All three are considered when a costume is reviewed.  For example, a costume wit
 # Eligible Costumes:
 While most people tend to think of armored costumes like SPARTANs and ODSTs when they think of Halo Costuming, the 405th and our Deployment program is open to all costumes that appear in an official published, official Halo Universe source, including Games, Comics, Novels, Art Books, movies, and TV Shows.  Human, Covenant, Forerunner, Soldier, Scientist, Civilian, and AI, all Halo Universe characters are eligible for Deployment.
 
-{ Still trying to find a good group shot, maybe from LA, that features UNSC, Covenant, AI, and maybe Civiliians }
+![Paramount+ Red Carpet Premiere](https://github.com/wiemerm/DeploymentGuide/assets/10991616/c5c56de8-2f2b-4f08-82f9-259b4f7628c1)
 
 ## Concept Art Costumes
 
