@@ -217,14 +217,17 @@ The following is an example of Tier 3 Personalization for an ODST due to only co
  
 
 The following are further examples of Tier 1 Personalization marks:
-```Need to bring over images```
+
+![Brotherhood of Steel logo](./Photos/Personalization/brotherhood.png) ![Overwatch logo](./Photos/Personalization/overwatch.png) ![Rebel Alliance logo](./Photos/Personalization/rebel.png)
 
 The following are further examples of Tier 2 Personalization marks:
-```Need to bring over images```
+
+![Colorado](./Photos/Personalization/colorado.png) ![Smiley](./Photos/Personalization/smiley.png) ![Kilroy was here](./Photos/Personalization/kilroy.png)
 
 
 The following are further examples of Tier 3 Personalization marks:
-```Need to bring over images```                        
+
+![Ninja](./Photos/Personalization/ninja.png) ![Yeti](./Photos/Personalization/yeti.png) ![Noble Team](./Photos/Personalization/noble_team.png)                       
 
 
 ## Tier Specific Finishing Examples:
