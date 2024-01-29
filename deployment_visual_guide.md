@@ -87,14 +87,13 @@ The Following are general guidelines, each costume will have specific requiremen
 
 ### Tier 1 Suits Examples:
 
+This H4 Spartan is noticeably using the foam method evidenced by the angular nature, lacks some details present on H4 armor styles, and has a flat paint job that doesn't match the styling seen in games.
+
 ![Example of a Tier 1 Spartan Armor](./Photos/General/tier1_example1.png)
-```
-Would be helpful to point out some items as to why it's a T1
-```
+
+Some items to note on this Halo CE Mk V build is the lack of smoothing work done to cut down on the angular nature beyond what would be present in game, scaling issues particularly regarding the shins and boots, and a noticeable level of warping to the helmet.
 ![Exmaple of a Tier 1 Spartan Armor](./Photos/General/tier1_example2.png)
-```
-Would be helpful to point out some items as to why it's a T1
-```
+
 
 ## Tier 2:
 
@@ -119,10 +118,14 @@ Would be helpful to point out some items as to why it's a T1
 - Armor sets having Handplates will have physical handplates in the correct shape and style. For Tier 2 repainted "Paintball" padded gloves are not acceptable in place of hand armor.
 
 ### Tier 2 Suit Examples:
-![Tier 2 example ODST](./Photos/General/tier2_heath.png)  ![Tier 2 example Caboose](./Photos/General/tier2_cadet.png)
-Would be helpful to point out some items as to why it's a T2
 
+In this ODST example the gloves lack the ODST details and are recognizable as commercial tactical style gloves, missing markings such as UNSC logo and the MK 117 on the chest plate seen in game, and is missing some of the detai pieces like shoulder strap and buckles.
 
+![Tier 2 example ODST](./Photos/General/tier2_example2.png)
+
+This CE MK V is using a plain black undersuit that lacks any details such as those that go on the backs of the knees, has a visible gap where the chest and back meet under the wearer's arms, and there are some scale and proportion issues particularly in the case of the boots.
+
+![Tier 2 example Caboose](./Photos/General/tier2_example1.png)
 
 ## Tier 3:
 
@@ -170,6 +173,7 @@ Would be helpful to point out some items as to why it's a T2
 
 - Additional details must be cosmetic in applications only, so if they were removed the base costume would still be a Deployable Tier 1 costume.
 
+
 This Mash Up Costume does not feature a complete Halo Universe costume at its base, and as such would not be Deployable:
 
 ![Ghostbusters Spartan](./Photos/General/ghostbuster_crossover.png)
@@ -190,22 +194,22 @@ This costume features a complete Halo Universe costumes as its base, and as such
 
 - These costumes are only approvable at a Tier 1 Level.
 
-- Halo Infinite's "Cross Core" helmet utilization is an exception to this rule, as the usage of helmets across Cores and Armor sets is able to be done In Game, and is therefore eligible for Tier 2 and Tier 3 status.
+- Halo Infinite's "Cross Core" helmet and shoulder utilization is an exception to this rule, as the usage of helmets and shoulders across Cores and Armor sets is able to be done In Game, and is therefore eligible for Tier 2 and Tier 3 status.
 
-[Need Include Image.  I can maybe do this with my CE Mark V and Reach Carter Helmet]
+```Need Image.  Cadet can maybe do this with his CE Mark V and Reach Carter Helmet```
 
 Personalization Examples:
 The Following would be limited to Tier 1 for Personalization for an ODST due to the use of recognizable imagery from another Franchise.
  
- ![Alt text](./Photos/Personalization/tier1_personalization.png)
+ ![Tier 1 Personalization from Venom Crossover](./Photos/Personalization/tier1_personalization.png)
 
 The following is an example of Tier 2 Personalization for an ODST due to the use of a logo not found in Halo's Multiplayer customization options or seen in any official Halo Media, but does not reference any other franchise or fictional universe:
 
-![Alt text](./Photos/Personalization/tier2_personalization.png)
+![Tier 2 Personalization of custom decal](./Photos/Personalization/tier2_personalization.png)
  
 The following is an example of Tier 3 Personalization for an ODST due to only containing logos and details found In Game.  This does include the use of the user's last name or Callsign or Nickname in the top position matching the placement on the armor worn by the members of Kilo-Five in Halo 3: ODST, but omitted for privacy in this example:
 
-![Alt text](./Photos/Personalization/tier3_personalization.png)
+![Tier 3 Personalization using only details found in game](./Photos/Personalization/tier3_personalization.png)
  
 
 The following are further examples of Tier 1 Personalization marks:
@@ -223,6 +227,7 @@ The following are further examples of Tier 3 Personalization marks:
 
 ## Tier Specific Finishing Examples:
 ### Pepakura Finishing Reference:
+
 Tier 1, Polygonal appear indicative of Pepakura is still present due to little or no smoothing techniques applied to the piece:
    
 ![Pepakura Tier 1 example](./Photos/Pepakura/tier1_pep.png)
