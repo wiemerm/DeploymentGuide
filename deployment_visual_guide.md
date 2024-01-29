@@ -56,9 +56,6 @@ No original, fan designed Armor Sets, permutations, or armor components and acce
 The Following are general guidelines, each costume will have specific requirements and items that are looked at and evaluated.
 
 ## Tier 1:
-```
-Fallen Note: Some of these get very specific for a "general guidelines" section. We should make a separate section for specifics. While, given the large number of potential costumes available, we can't expect to cover every permutation, we could create a section for each major type such as SPARTAN, ODST, Marine, etc. A first iteration could cover non-game specifics for each type and we could continue to expand on specific variants (e.g. Reach SPARTAN, H3 Marine, Mk VII, etc.) over time treating this as a living compendium.
-```
 
 - Costume must be complete with all primary components present. Any missing primary components will make a costume ineligible for Deployment.
     - Primary components will be determined on a costume by costume basis 
