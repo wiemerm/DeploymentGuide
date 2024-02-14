@@ -198,7 +198,7 @@ This costume features a complete Halo Universe costumes as its base, and as such
 
 ```Need Image.  Cadet can maybe do this with his CE Mark V and Reach Carter Helmet```
 
-Personalization Examples:
+### Personalization Reference:
 The Following would be limited to Tier 1 for Personalization for an ODST due to the use of recognizable imagery from another Franchise.
  
  ![Tier 1 Personalization from Venom Crossover](./Photos/Personalization/tier1_personalization.png)
@@ -207,7 +207,7 @@ The following is an example of Tier 2 Personalization for an ODST due to the use
 
 ![Tier 2 Personalization of custom decal](./Photos/Personalization/tier2_personalization.png)
  
-The following is an example of Tier 3 Personalization for an ODST due to only containing logos and details found In Game.  This does include the use of the user's last name or Callsign or Nickname in the top position matching the placement on the armor worn by the members of Kilo-Five in Halo 3: ODST, but omitted for privacy in this example:
+The following is an example of Tier 3 Personalization for an ODST due to only containing logos and details found In Game.  This does include the use of the user's last name or Callsign or Nickname in the top position matching the placement on the armor worn by the members of Alpha-Nine in Halo 3: ODST, but omitted for privacy in this example:
 
 ![Tier 3 Personalization using only details found in game](./Photos/Personalization/tier3_personalization.png)
  
