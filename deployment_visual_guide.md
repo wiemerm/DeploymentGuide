@@ -196,7 +196,8 @@ This costume features a complete Halo Universe costumes as its base, and as such
 
 - Halo Infinite's "Cross Core" helmet and shoulder utilization is an exception to this rule, as the usage of helmets and shoulders across Cores and Armor sets is able to be done In Game, and is therefore eligible for Tier 2 and Tier 3 status.
 
-```Need Image.  Cadet can maybe do this with his CE Mark V and Reach Carter Helmet```
+<img src="./Photos/General/mix_and_match_example.jpg" width="300">
+Example of a mix and match armor using Reach Commando helmet and CE Mark V armor that would only be able to be deployed at a Tier 1 Level.
 
 ### Personalization Reference:
 The Following would be limited to Tier 1 for Personalization for an ODST due to the use of recognizable imagery from another Franchise.
