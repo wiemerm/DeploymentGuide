@@ -20,7 +20,7 @@ The Tier a costume is given is based on three factors:
 - accuracy
 - fit/scale to the wearer  
 
-All three are considered when a costume is reviewed.  For example, a costume with Tier 3 equivalent construction and accuracy but has mis-scaled parts would not qualify for Tier 3 status, being limited { to Tier 1 } by the scaling and fit of the costume.  As such, Tiers 1 and 2 will exhibit a range of costumes in each respective Tier.  Members are under no obligation to change, rebuild, or upgrade their costume after being deployed.  The advice and feedback given are only if the member so chooses to continue working on their costume to make it the best they can. 
+All three are considered when a costume is reviewed.  For example, a costume with Tier 3 equivalent construction and accuracy but has mis-scaled parts would not qualify for Tier 3 status, being limited to Tier 2 by the scaling and fit of the costume.  As such, Tiers 1 and 2 will exhibit a range of costumes in each respective Tier.  Members are under no obligation to change, rebuild, or upgrade their costume after being deployed.  The advice and feedback given are only if the member so chooses to continue working on their costume to make it the best they can. 
 
 *Please note that Deployment is reserved for **Regimental Members** of the site, which are those members who have had a registered account for more than 90 days and have made more than 50 posts and joined their respective local 405th Regiment.
 
