@@ -32,9 +32,9 @@ While most people tend to think of armored costumes like SPARTANs and ODSTs when
 
 ## Concept Art Costumes
 
-Costumes based on Concept Art are applicable for Deployment { only } when the designs have been published in an Official Microsoft or 343 Industries publication, such as an "Art of" book. Designs posted on an individual Artist's website but not seen in an official publication are not deployable. 
+Costumes based on Concept Art are applicable for Deployment { only } when the designs have been published in an Official Microsoft or 343 Industries publication, such as an "Art of" book. Designs posted on an individual Artist's website or social media but not seen in an official publication are not deployable. 
 
-Moreover, if the only visual depiction of a costume does not contain a full 360 view of the costume it will still be eligible for Deployment, but will be unable to achieve a Tier 3, as there is not enough information to do a complete objective evaluation of the build's accuracy. { If it's limited to T1 we should say that, if T2 is possible can keep as is }
+Moreover, if the only visual depiction of a costume does not contain a full 360 view of the costume it will still be eligible for Deployment, but will be unable to achieve a Tier 3, as there is not enough information to do a complete objective evaluation of the build's accuracy and would be limted to a Tier 2.
 
 The Following is an example of Concept art by 343 Artist Kory Hubbell that would not be eligible for Tier 3 because we do not have a full view of the Character: 
 
@@ -119,7 +119,7 @@ Some items to note on this Halo CE Mk V build is the lack of smoothing work done
 
 ### Tier 2 Suit Examples:
 
-In this ODST example the gloves lack the ODST details and are recognizable as commercial tactical style gloves, missing markings such as UNSC logo and the MK 117 on the chest plate seen in game, and is missing some of the detai pieces like shoulder strap and buckles.
+In this ODST example the gloves lack the ODST details and are recognizable as commercial tactical style gloves, missing markings such as UNSC logo and the MK 117 on the chest plate seen in game, and is missing some of the detail pieces like shoulder strap buckles.
 
 ![Tier 2 example ODST](./Photos/General/tier2_example2.png)
 
@@ -196,8 +196,8 @@ This costume features a complete Halo Universe costumes as its base, and as such
 
 - Halo Infinite's "Cross Core" helmet and shoulder utilization is an exception to this rule, as the usage of helmets and shoulders across Cores and Armor sets is able to be done In Game, and is therefore eligible for Tier 2 and Tier 3 status.
 
+For example, this costume would be limited to a Tier 1 due to hte miz of a Halo Reach Commando Helmet with a Halo CE body, a combination unable to be replicated in any game.
 <img src="./Photos/General/mix_and_match_example.jpg" width="300">
-Example of a mix and match armor using Reach Commando helmet and CE Mark V armor that would only be able to be deployed at a Tier 1 Level.
 
 ### Personalization Reference:
 The Following would be limited to Tier 1 for Personalization for an ODST due to the use of recognizable imagery from another Franchise.
