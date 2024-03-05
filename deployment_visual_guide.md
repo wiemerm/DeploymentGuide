@@ -196,7 +196,7 @@ This costume features a complete Halo Universe costumes as its base, and as such
 
 - Halo Infinite's "Cross Core" helmet and shoulder utilization is an exception to this rule, as the usage of helmets and shoulders across Cores and Armor sets is able to be done In Game, and is therefore eligible for Tier 2 and Tier 3 status.
 
-For example, this costume would be limited to a Tier 1 due to hte miz of a Halo Reach Commando Helmet with a Halo CE body, a combination unable to be replicated in any game.
+For example, this costume would be limited to a Tier 1 due to the mix of a Halo Reach Commando Helmet with a Halo CE body, a combination unable to be replicated in any game.
 <img src="./Photos/General/mix_and_match_example.jpg" width="300">
 
 ### Personalization Reference:
