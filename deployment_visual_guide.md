@@ -34,7 +34,7 @@ While most people tend to think of armored costumes like SPARTANs and ODSTs when
 
 Costumes based on Concept Art are applicable for Deployment { only } when the designs have been published in an Official Microsoft or 343 Industries publication, such as an "Art of" book. Designs posted on an individual Artist's website or social media but not seen in an official publication are not deployable. 
 
-Moreover, if the only visual depiction of a costume does not contain a full 360 view of the costume it will still be eligible for Deployment, but will be unable to achieve a Tier 3, as there is not enough information to do a complete objective evaluation of the build's accuracy and would be limted to a Tier 2.
+Moreover, if the only visual depiction of a costume does not contain a full 360 view of the costume it will still be eligible for Deployment, but will be unable to achieve a Tier 3, as there is not enough information to do a complete objective evaluation of the build's accuracy and would be limited to a Tier 2.
 
 The Following is an example of Concept art by 343 Artist Kory Hubbell that would not be eligible for Tier 3 because we do not have a full view of the Character: 
 
