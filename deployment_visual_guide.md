@@ -1,7 +1,7 @@
 
 
 # 405th Deployment Visual Guide
-*last updated January 2024
+*last updated June 2025
 
 **Important Reminder:** Deployment is an *optional* process in the 405th. A deployed costume is *not* a requirement for 405th or Regiment Membership. The default view on 405th events is that all costumes are welcome and participation is not not limited to Deployed costumes only.  The Deployment process is intended for two things.  
 1.  To serve as formal recognition of a member's hard work in completing a Halo Universe Costume.  
