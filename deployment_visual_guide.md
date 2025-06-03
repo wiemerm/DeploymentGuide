@@ -34,18 +34,18 @@ While most people tend to think of armored costumes like SPARTANs and ODSTs when
 
 Costumes based on Concept Art are applicable for Deployment only when the designs have been published in an Official Microsoft or Halo Studios publication, such as an "Art of" book. Designs posted on an individual Artist's website or social media but not seen in an official publication are not deployable. 
 
-Moreover, if the only visual depiction of a costume does not contain a full 360 view of the costume it will still be eligible for Deployment, but will be unable to achieve a Tier 3, as there is not enough information to do a complete objective evaluation of the build's accuracy and would be limited to a Tier 2.
+Moreover, if the only visual depiction of a costume does not contain a full 360 view of the costume it will still be eligible for Deployment, but will be unable to achieve a **Tier 3**, as there is not enough information to do a complete objective evaluation of the build's accuracy and would be limited to a **Tier 2**.
 
-The Following is an example of Concept art by 343 Artist Kory Hubbell that would not be eligible for Tier 3 because we do not have a full view of the Character: 
+The Following is an example of Concept art by 343 Artist Kory Hubbell that would not be eligible for **Tier 3** because we do not have a full view of the Character: 
 
 ![Concept Art by Kory Hubbell of one angle of Spartan](./Photos/Concept%20Art/kory_hubbell.png)
 
-The Following is an example of Concept art by 343 Artist Kory Hubbell that would be eligible for Tier 3 because we do have a full view of the Character:
+The Following is an example of Concept art by 343 Artist Kory Hubbell that would be eligible for **Tier 3** because we do have a full view of the Character:
  
 ![Front and back concept art of security armor](./Photos/Concept%20Art/security_armor.png)
 
 
-No original, fan designed Armor Sets, permutations, or armor components and accessories are applicable for Deployment.  These are things like custom Shoulders or Helmets that are not seen in any game, but were designed as an original, custom armor component by the builder or non Bungie or 343/Halo Studios Artist.
+No original, fan designed armor sets, permutations, or armor components and accessories are applicable for Deployment.  These are things like custom shoulders or helmets that are not seen in any game, but were designed as an original, custom armor component by the builder or non Bungie or 343/Halo Studios Artist.
 
 # General Guidelines
 
@@ -101,7 +101,7 @@ Some items to note on this Halo CE Mk V build is the lack of smoothing work done
 
 - Armored costume under suits will have greater details and be a better match to in game references in material and color selection. For example: SPARTANS will not use camouflage pattern BDUs as their under suit.
 
-- Costume may have paint details or decals that simulate armor graffiti or personalization must reference items, groups, or historical incidents that exist within the Halo Universe. For example Phrases such as "Remember Reach" or UNSC or ONI related logos or markings. Generic phrases like "Follow Me" or "Come Get Some" and generic logos like the "Skull and Crossbones," "Smiley Face", or animals are acceptable but references to other fictional universes, like the Star Wars Rebel Star Bird or Transformers AutoBot logo, are no longer acceptable for Tier 2.
+- Costume may have paint details or decals that simulate armor graffiti or personalization must reference items, groups, or historical incidents that exist within the Halo Universe. For example Phrases such as "Remember Reach" or UNSC or ONI related logos or markings. Generic phrases like "Follow Me" or "Come Get Some" and generic logos like the "Skull and Crossbones," "Smiley Face", or animals are acceptable but references to other fictional universes, like the Star Wars Rebel Star Bird or Transformers AutoBot logo, are no longer acceptable for **Tier 2**.
 
 - Halo 4 and 5 tech suits will attempt to visually replicate details.
 
@@ -111,7 +111,7 @@ Some items to note on this Halo CE Mk V build is the lack of smoothing work done
 
 - 3D Printed pieces have had a high level of sanding and smoothing done.
 
-- Armor sets having handplates will have physical handplates in the correct shape and style. For Tier 2 repainted "Paintball" padded gloves are not acceptable in place of hand armor.
+- Armor sets having handplates will have physical handplates in the correct shape and style. For **Tier 2** repainted "Paintball" padded gloves are not acceptable in place of hand armor.
 
 ### Tier 2 Suit Examples:
 
@@ -133,7 +133,7 @@ This CE MK V is using a plain black undersuit that lacks any details such as tho
 
 - Logos, symbols, and personalization appearance and placement must match references or be able to be replicated in multiplayer customization. 
 
-- Official 405th Division or Regiment logos may be used in place of any in-game logo or symbol and still qualify for Tier 3.
+- Official 405th Division or Regiment logos may be used in place of any in-game logo or symbol and still qualify for **Tier 3**.
 
 - Costume proportions must match in-game appearance and costume must be fitted to the wearer.
 
@@ -143,11 +143,11 @@ This CE MK V is using a plain black undersuit that lacks any details such as tho
 
 - Armor attachment system and any strapping system are not overtly visible.
 
-- Weathering, if present in game or in the visual reference, must be replicated in patterns, details, and appearance.  For example, A Tier 3 Jorge-052 armor set will have paint chipping, scratches, and visibly weathered armor, whereas a Jorge-052 armor set submitted without any weathering to the armor would be Tier 2. 
+- Weathering, if present in game or in the visual reference, must be replicated in patterns, details, and appearance.  For example, A **Tier 3** Jorge-052 armor set will have paint chipping, scratches, and visibly weathered armor, whereas a Jorge-052 armor set submitted without any weathering to the armor would be **Tier 2**. 
 
 - "Optional Accessories" like pouches or ammo bandoliers on characters like ODSTs or Marines that exhibit a variety of placement schemes in-game must be shown to match an in-game reference.
 
-- Individual costumes and costume types will have different Tier 3 specific details that must be present. Examples include: "layered" padding or armor on interior of ODST thighs, under suit details on Halo Reach styled SPARTAN abdominal areas, under suit details on Halo 4 and 5 "Tech Suits."
+- Individual costumes and costume types will have different **Tier 3** specific details that must be present. Examples include: "layered" padding or armor on interior of ODST thighs, under suit details on Halo Reach styled SPARTAN abdominal areas, under suit details on Halo 4 and 5 "Tech Suits."
 
 - Costume must have a full 360 degree visual reference to compare the submitted member costume too.
 
@@ -161,13 +161,13 @@ This CE MK V is using a plain black undersuit that lacks any details such as tho
 
 - These are Halo costumes "mashed up" with Pop Culture characters. Examples include "Captain America" SPARTANs or "HALO Kitty."
 
-- These costumes are only approvable at a Tier 1 Level.
+- These costumes are only approvable at a **Tier 1** Level.
 
 - Popular culture mash up may be generated by paint scheme or addition of non-canon accessories.
 
 - Costume must have a complete Halo Universe costume as a base with all primary components of that costume present.
 
-- Additional details must be cosmetic in applications only, so if they were removed the base costume would still be a Deployable Tier 1 costume.
+- Additional details must be cosmetic in applications only, so if they were removed the base costume would still be a deployable **Tier 1** costume.
 
 
 This Mash Up Costume does not feature a complete Halo Universe costume at its base, and as such would not be Deployable:
@@ -188,85 +188,85 @@ This costume features a complete Halo Universe costumes as its base, and as such
 
 - Mix of no more than 3 game armor styles. 
 
-- These costumes are only approvable at a Tier 1 Level.
+- These costumes are only approvable at a **Tier 1** level.
 
-- Halo Infinite's "cross core" helmet and shoulder utilization is an exception to this rule, as the usage of helmets and shoulders across cores and armor sets is able to be done in-game, and is therefore eligible for Tier 2 and Tier 3 status.
+- Halo Infinite's "cross core" helmet and shoulder utilization is an exception to this rule, as the usage of helmets and shoulders across cores and armor sets is able to be done in-game, and is therefore eligible for **Tier 2** and **Tier 3** status.
 
-For example, this costume would be limited to a Tier 1 due to the mix of a Halo Reach Commando helmet with a Halo CE body, a combination unable to be replicated in any game.
+For example, this costume would be limited to a **Tier 1** due to the mix of a Halo Reach Commando helmet with a Halo CE body, a combination unable to be replicated in any game.
 
 <img src="./Photos/General/mix_and_match_example.jpg" width="300">
 
 ### Personalization Reference:
-The following would be limited to Tier 1 for personalization for an ODST due to the use of recognizable imagery from another franchise.
+The following would be limited to **Tier 1** for personalization for an ODST due to the use of recognizable imagery from another franchise.
  
  ![Tier 1 Personalization from Venom Crossover](./Photos/Personalization/tier1_personalization.png)
 
-The following is an example of Tier 2 personalization for an ODST due to the use of a logo not found in Halo's multiplayer customization options or seen in any official Halo media, but does not reference any other franchise or fictional universe:
+The following is an example of **Tier 2** personalization for an ODST due to the use of a logo not found in Halo's multiplayer customization options or seen in any official Halo media, but does not reference any other franchise or fictional universe:
 
 ![Tier 2 Personalization of custom decal](./Photos/Personalization/tier2_personalization.png)
  
-The following is an example of Tier 3 personalization for an ODST due to only containing logos and details found in-game.  This does include the use of the user's last name or callsign or nickname in the top position matching the placement on the armor worn by the members of Alpha-Nine in Halo 3: ODST, but omitted for privacy in this example:
+The following is an example of **Tier 3** personalization for an ODST due to only containing logos and details found in-game.  This does include the use of the user's last name or callsign or nickname in the top position matching the placement on the armor worn by the members of Alpha-Nine in Halo 3: ODST, but omitted for privacy in this example:
 
 ![Tier 3 Personalization using only details found in game](./Photos/Personalization/tier3_personalization.png)
  
 
-The following are further examples of Tier 1 Personalization marks:
+The following are further examples of **Tier 1** Personalization marks:
 
 ![Brotherhood of Steel logo](./Photos/Personalization/brotherhood.png) ![Overwatch logo](./Photos/Personalization/overwatch.png) ![Rebel Alliance logo](./Photos/Personalization/rebel.png)
 
-The following are further examples of Tier 2 Personalization marks:
+The following are further examples of **Tier 2** Personalization marks:
 
 ![Colorado](./Photos/Personalization/colorado.png) ![Smiley](./Photos/Personalization/smiley.png) ![Kilroy was here](./Photos/Personalization/kilroy.png)
 
 
-The following are further examples of Tier 3 Personalization marks:
+The following are further examples of **Tier 3** Personalization marks:
 
 ![Ninja](./Photos/Personalization/ninja.png) ![Yeti](./Photos/Personalization/yeti.png) ![Noble Team](./Photos/Personalization/noble_team.png)                       
 
 ## Tier Specific Finishing Examples:
 ### Pepakura Finishing Reference:
 
-Tier 1, polygonal appear indicative of Pepakura is still present due to little or no smoothing techniques applied to the piece:
+**Tier 1**, polygonal appear indicative of Pepakura is still present due to little or no smoothing techniques applied to the piece:
    
 ![Pepakura Tier 1 example](./Photos/Pepakura/tier1_pep.png)
 
-Tier 2, while smoothed, there are still rough patches indicating the base method and materials used:
+**Tier 2**, while smoothed, there are still rough patches indicating the base method and materials used:
   
 ![Pepakura Tier 2 example](./Photos/Pepakura/tier2_pep.png)
 
-Tier 3, the piece has been smoothed and detailed to the point that the base material or method is no longer obvious: 
+**Tier 3**, the piece has been smoothed and detailed to the point that the base material or method is no longer obvious: 
 
 ![Pepakura Tier 3 example](./Photos/Pepakura/tier3_pep.png)
 
 
 ### Foam Build Reference
 
-Tier 1, there are large gaps and unfilled seams that make the base construction method of foam visible:
+**Tier 1**, there are large gaps and unfilled seams that make the base construction method of foam visible:
 
 ![Foam Tier 1 Example](./Photos/Foam/tier1_foam.png)
 
-Tier 2, the construction of the piece is such that seams are minimized and filled, but some cuts are not as smooth or symmetrical and seams, while filled, are still able to be identified:
+**Tier 2**, the construction of the piece is such that seams are minimized and filled, but some cuts are not as smooth or symmetrical and seams, while filled, are still able to be identified:
  
 ![Foam Tier 2 Example](./Photos/Foam/tier2_foam.png)
 
 
-Tier 3, the construction of the piece is such that seams are minimized or filled and smoothed to the point that the base material or method is no longer obvious:
+**Tier 3**, the construction of the piece is such that seams are minimized or filled and smoothed to the point that the base material or method is no longer obvious:
 
 ![Foam Tier 3 Example](./Photos/Foam/tier3_foam.png)
 
 ### 3D Print Build Reference
 
-Tier 1, little to no smoothing or filling of print lines has been completed:
+**Tier 1**, little to no smoothing or filling of print lines has been completed:
 
 ![3D Print Tier 1 Example](./Photos/3d%20Print/tier1_3d_print.png)
 
  
-Tier 2, print lines have had post processing and filling, but are still visible in small places such as corners or recessed areas: 
+**Tier 2**, print lines have had post processing and filling, but are still visible in small places such as corners or recessed areas: 
 
 ![3D Print Tier 2 Example](./Photos/3d%20Print/tier2_3d_print.png)
 
 
-Tier 3, the piece has been smoothed and detailed to the point that the base material or method is no longer obvious:
+**Tier 3**, the piece has been smoothed and detailed to the point that the base material or method is no longer obvious:
 
 ![3D Print Tier 3 Example](./Photos/3d%20Print/tier3_3d_print.png)
 
