@@ -152,7 +152,7 @@ This CE MK V is using a plain black undersuit that lacks any details such as tho
 - Costume must have a full 360 degree visual reference to compare the submitted member costume too.
 
 ### Tier 3 Suit Examples:
-![Tier 3 example Chief](./Photos/General/tier3_example1.png) 
+![Tier 3 Mk VII example](./Photos/General/tier3_mk_vii.png) 
 ![Tier 3 example Chief](./Photos/General/tier3_example2.png)  
 
 
