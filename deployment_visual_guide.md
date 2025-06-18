@@ -280,10 +280,12 @@ The following are further examples of **Tier 3** Personalization marks:
 
 ### 3D Print Build Reference
 **Not Deployable**, raw print, no effort to smooth or fill seams and no painting:
+
 ![Not Deployable 3D Print Example](./Photos/3d%20Print/not_deployable_3d_print.png)
 
 **Tier 1**, little to no smoothing or filling of print lines has been completed but part has been painted:
 
+![3D Print Tier 1 Example](./Photos/3d%20Print/tier1_3d_print.png)
  
 **Tier 2**, print lines have had post processing and filling, but are still visible in small places such as corners or recessed areas: 
 
