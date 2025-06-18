@@ -249,6 +249,7 @@ The following are further examples of **Tier 3** Personalization marks:
 
 ## Tier Specific Finishing Examples:
 ### Pepakura Finishing Reference:
+These are examples of the construction detail level for each tier and do not necessarily include requirements around paint and weathering.
 
 **Tier 1**, polygonal appear indicative of Pepakura is still present due to little or no smoothing techniques applied to the piece:
    
@@ -264,6 +265,7 @@ The following are further examples of **Tier 3** Personalization marks:
 
 
 ### Foam Build Reference
+These are examples of the construction detail level for each tier and do not necessarily include requirements around paint and weathering.
 
 **Tier 1**, there are large gaps and unfilled seams that make the base construction method of foam visible:
 
@@ -279,11 +281,11 @@ The following are further examples of **Tier 3** Personalization marks:
 ![Foam Tier 3 Example](./Photos/Foam/tier3_foam.png)
 
 ### 3D Print Build Reference
+These are examples of the filling and sanding level expected for each tier and does not include the necessary paint, weathering, or finishes expected.
 
 **Tier 1**, little to no smoothing or filling of print lines has been completed:
 
-![3D Print Tier 1 Example](./Photos/3d%20Print/tier1_3d_print.png)
-`This needs a new photo, based on the conversation about raw 3D prints should replace with an image of an unsanded print that's been painted`
+![3D Print Tier 1 Example](./Photos/3d%20Print/not_deployable_3d_print.png)
 
  
 **Tier 2**, print lines have had post processing and filling, but are still visible in small places such as corners or recessed areas: 
