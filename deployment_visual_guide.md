@@ -47,6 +47,14 @@ The Following is an example of Concept art by 343 Artist Kory Hubbell that would
 
 No original, fan designed armor sets, permutations, or armor components and accessories are applicable for Deployment.  These are things like custom shoulders or helmets that are not seen in any game, but were designed as an original, custom armor component by the builder or non Bungie or 343/Halo Studios Artist.
 
+![Original armor design](./Photos/Personalization/OCarmor1.jpg)
+
+The above is an example of a fan designed armor set that would not be eligible for Deployment.
+
+![Star Wars x Halo mash up helmet concept](./Photos/Personalization/MashUpHelmet1.jpg)
+
+This is an example of a Star Wars and Halo mash up helmet concept that would not be eligible for Deployment.
+
 # General Guidelines
 
 The Following are general guidelines, each costume will have specific requirements and items that are looked at and evaluated.
