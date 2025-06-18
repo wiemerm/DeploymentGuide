@@ -208,17 +208,17 @@ For example, this costume would be limited to a **Tier 1** due to the mix of a H
 ### Color Reference:
 The following examples are based off a Halo 3 Spartan, so what can be replicated in Halo 3's multiplayer applies.
  
- ![Tier 1 Color Personalization](./Photos/Colors/Halo3MultiplayerTier1.png)
-
 **Tier 1**: This color scheme is not able to be replicated in Halo 3's Multiplayer, and the number and placement of colors does not align with the Halo 3 UNSC Design Language.
 
- ![Tier 2 Color Personalization](./Photos/Colors/Halo3MultiplayerTier2.png)
+ ![Tier 1 Color Personalization](./Photos/Colors/Halo3MultiplayerTier1.png)
 
  **Tier 2**: This color scheme is not able to be replicted in Halo 3's Multiplayer, but the number and placement of colors better aligns with the Halo 3 UNSC Design Language.
 
-  ![Tier 3 Color Personalization](./Photos/Colors/Halo3MultiplayerTier3.png)
+ ![Tier 2 Color Personalization](./Photos/Colors/Halo3MultiplayerTier2.png)
 
   **Tier 3**: This is a color scheme that can be replicated in Halo 3's Multiplayer, and as such its use would qualify for a Tier 3.
+ 
+  ![Tier 3 Color Personalization](./Photos/Colors/Halo3MultiplayerTier3.png)
 
 ### Personalization Reference:
 The following would be limited to **Tier 1** for personalization for an ODST due to the use of recognizable imagery from another franchise.
