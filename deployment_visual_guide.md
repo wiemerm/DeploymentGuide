@@ -196,6 +196,7 @@ For example, this costume would be limited to a **Tier 1** due to the mix of a H
 
 <img src="./Photos/General/mix_and_match_example.jpg" width="300">
 
+## Personalization:
 ### Color Reference:
 The following examples are based off a Halo 3 Spartan, so what can be replicated in Halo 3's multiplayer applies.
  
