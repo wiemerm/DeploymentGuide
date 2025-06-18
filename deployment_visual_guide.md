@@ -109,7 +109,7 @@ Some items to note on this Halo CE Mk V build is the lack of smoothing work done
 
 - Armored costume under suits will have greater details and be a better match to in game references in material and color selection. For example: SPARTANS will not use camouflage pattern BDUs as their under suit.
 
-- Costume may have paint details or decals that simulate armor graffiti or personalization must reference items, groups, or historical incidents that exist within the Halo Universe. For example Phrases such as "Remember Reach" or UNSC or ONI related logos or markings. Generic phrases like "Follow Me" or "Come Get Some" and generic logos like the "Skull and Crossbones," "Smiley Face", or animals are acceptable but references to other fictional universes, like the Star Wars Rebel Star Bird or Transformers AutoBot logo, are no longer acceptable for **Tier 2**.
+- Costume may have paint details or decals that simulate armor graffiti or personalization must reference items, groups, or historical incidents that exist within the Halo Universe. For example Phrases such as "Remember Reach" or UNSC or ONI related logos or markings. Generic phrases like "Follow Me" or "Come Get Some" and generic logos like the "Skull and Crossbones," "Smiley Face", or animals are acceptable but references to other fictional universes, like the Star Wars Rebel Starbird or Transformers Autobot logo, are no longer acceptable for **Tier 2**.
 
 - Halo 4 and 5 tech suits will attempt to visually replicate details.
 
